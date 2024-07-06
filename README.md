@@ -5,7 +5,7 @@ I'm a student of Electrical and Electronics Engineering with a passion for softw
 ## About Me
 
 - 🌱 I'm enthusiastic about learning new technologies and coding languages.
-[//]:- 💼 I'm open to internships and collaborations in the field of software and web development.
+<!--- - 💼 I'm open to internships and collaborations in the field of software and web development. --->
 
 ## Skills
 
