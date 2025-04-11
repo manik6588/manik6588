@@ -15,7 +15,7 @@ I'm a student of Electrical and Electronics Engineering with a passion for softw
 
 ## Get in Touch
 
-- 📧 Email: [manikandan_tech2004@proton.me](mailto:manikandan.a2004@proton.me)
+- 📧 Email: [manikandan.a2004@gmail.com](mailto:manikandan.a2004@gmail.com)
 
 ## GitHub Stats
 
