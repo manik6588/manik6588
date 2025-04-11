@@ -15,7 +15,7 @@ I'm a student of Electrical and Electronics Engineering with a passion for softw
 
 ## Get in Touch
 
-- 📧 Email: [manikandan_tech2004@proton.me](mailto:manikandan_tech2004@proton.me)
+- 📧 Email: [manikandan_tech2004@proton.me](mailto:manikandan.a2004@proton.me)
 
 ## GitHub Stats
 
@@ -25,8 +25,7 @@ I'm a student of Electrical and Electronics Engineering with a passion for softw
 
 ## My Latest Projects
 
-1. [Local Storage](https://github.com/manik6588/LocalStorage)
-2. [Audio Streaming](https://github.com/manik6588/audio-streaming-project)
+1. [AIPC](https://github.com/manik6588/AIPC)
 
 Feel free to explore my projects and repositories. I'm always looking for exciting opportunities and collaborations, so don't hesitate to get in touch if you'd like to work together. 😄
 
