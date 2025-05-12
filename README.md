@@ -25,7 +25,7 @@ I'm a student of Electrical and Electronics Engineering with a passion for softw
 
 ## My Latest Projects
 
-1. [AIPC](https://github.com/manik6588/AIPC)
+1. [Audio Visualizer Ultra](https://github.com/manik6588/AudioVisualizerUltra)
 
 Feel free to explore my projects and repositories. I'm always looking for exciting opportunities and collaborations, so don't hesitate to get in touch if you'd like to work together. 😄
 
