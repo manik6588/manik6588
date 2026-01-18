@@ -1,36 +1,80 @@
-# Hi there, I'm Manikandan 👋
+# Manikandan  
+**Electrical & Electronics Engineer | Software Engineer | Full-Stack Developer**
 
-I'm a student of Electrical and Electronics Engineering with a passion for software and full-stack web development. Welcome to my GitHub profile!
+I am an Electrical and Electronics Engineering student with a strong engineering mindset and a deep interest in **software systems, full-stack web development, and performance-oriented applications**. My work focuses on building reliable, scalable, and technically sound solutions with real-world relevance.
 
-## About Me
+---
 
-- 🌱 I'm enthusiastic about learning new technologies and coding languages.
-<!--- - 💼 I'm open to internships and collaborations in the field of software and web development. --->
+## Overview
 
-## Skills
+- 🎓 Background in **Electrical & Electronics Engineering**
+- 💻 Strong foundation in **software development and system design**
+- 🌐 Experience with **full-stack web technologies**
+- 🔍 Focused on **performance, correctness, and maintainability**
+- 🚀 Constantly evolving with modern tools, frameworks, and architectures
 
-- 💻 Proficient in Software Development.
-- 🌐 Experienced in Full-Stack Web Development.
-- 🚀 Always eager to take on new challenges.
+---
 
-## Get in Touch
+## Technical Expertise
 
-- 📧 Email: [manikandan.a2004@gmail.com](mailto:manikandan.a2004@gmail.com)
+### Software Development
+- Clean, maintainable, and well-structured code
+- Strong understanding of core programming concepts
+- Emphasis on performance, debugging, and reliability
 
-## GitHub Stats
+### Full-Stack Web Development
+- Backend development with structured APIs
+- Frontend integration with modern frameworks
+- Database design and application-level data flow
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=manik6588&show_icons=true&theme=radical)
+### Engineering Mindset
+- Architecture-first thinking
+- Optimization-driven development
+- Practical problem solving over theoretical demos
 
-![Visitor Count](https://profile-counter.glitch.me/manik6588/count.svg)
+---
 
-## My Latest Projects
+## Featured Project
 
-1. [Audio Visualizer Ultra](https://github.com/manik6588/AudioVisualizerUltra)
+### 🔊 Audio Visualizer Ultra  
+**Repository:** https://github.com/manik6588/AudioVisualizerUltra  
 
-Feel free to explore my projects and repositories. I'm always looking for exciting opportunities and collaborations, so don't hesitate to get in touch if you'd like to work together. 😄
+A high-performance audio visualization project focused on:
+- Real-time signal processing
+- Efficient rendering pipelines
+- Clean and extensible architecture
 
+---
 
-<!---
-manik6588/manik6588 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manik6588&show_icons=true&theme=radical)
+
+![Profile Views](https://profile-counter.glitch.me/manik6588/count.svg)
+
+---
+
+## Contact
+
+- 📧 Email: **manikandan.a2004@gmail.com**
+
+---
+
+## Professional Philosophy
+
+> Build systems that are **understandable, efficient, and durable**.  
+> Avoid unnecessary complexity. Optimize where it matters.  
+> Engineering is about discipline, not shortcuts.
+
+---
+
+## Collaboration
+
+I am open to:
+- Technical collaborations
+- Open-source contributions
+- Engineering discussions and reviews
+
+If your project values **quality, performance, and solid design**, feel free to connect.
+
+---
